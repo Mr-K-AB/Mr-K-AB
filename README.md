@@ -38,6 +38,13 @@ I'm a passionate Data Scientist working on cutting-edge AI and AGI solutions. Wi
 
 ---
 
+## 🌟 GitHub Achievements
+![Pull Shark](https://github-profile-achievements.vercel.app/api/achievements/pull-shark?username=Mr-K-AB&theme=dark)
+![Quick Draw](https://github-profile-achievements.vercel.app/api/achievements/quickdraw?username=Mr-K-AB&theme=dark)
+![YOLO](https://github-profile-achievements.vercel.app/api/achievements/yolo?username=Mr-K-AB&theme=dark)
+
+---
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Mr-K-AB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mr-K-AB&theme=dark&hide_border=false)<br/>
