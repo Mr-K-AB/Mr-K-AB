@@ -72,3 +72,29 @@ I'm a passionate Data Scientist working on cutting-edge AI and AGI solutions. Wi
 
 
 ---
+
+
+
+
+
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mr-K-AB/Mr-K-AB/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mr-K-AB/Mr-K-AB/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Mr-K-AB/count.svg?"  />
+</div>
+
+
+###
