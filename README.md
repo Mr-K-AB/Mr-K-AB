@@ -16,7 +16,7 @@ I'm a passionate Data Scientist working on cutting-edge AI and AGI solutions. Wi
 - 🌍 **Career Aspiration:** Exploring AI-driven research and product development opportunities
 - 📍 **Interests:** AI Research, Generative Models, Full-Stack Development, Data Visualization, High-Performance Computing
 - 🏆 **Past Roles:** Full Stack Intern, System Admin Intern (HPC), Project Manager, General Secretary (Academics) at IIT Palakkad
-- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/mr-mis-ab-v-p) | [GitHub](https://github.com/Mr-K-AB)
+- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/mr-mis-ab-v-p) | [GitHub](https://github.com/Mr-K-AB) | [Website](https://mr-k-ab.github.io)
 
 ---
 
