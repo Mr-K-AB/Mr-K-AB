@@ -15,7 +15,7 @@ I'm a passionate Data Scientist working on cutting-edge AI and AGI solutions. Wi
 - 💼 **Current Role:** Data Scientist (AGI Services)
 - 🌍 **Aspiring Move:** Looking for opportunities in top AI companies and research-driven organizations
 - 📌 **Interests:** AI Research, Generative Models, Full-Stack Development, Data Visualization, High-Performance Computing
-- 🏆 **Past Roles:** System Admin Intern (HPC), Project Manager, General Secretary (Academics) at IIT Palakkad
+- 🏆 **Past Roles:** Full Stack Intern, System Admin Intern (HPC), Project Manager, General Secretary (Academics) at IIT Palakkad
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/mr-mis-ab-v-p) | [GitHub](https://github.com/Mr-K-AB)
 
 ---
