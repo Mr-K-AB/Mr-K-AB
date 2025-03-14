@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 Hello, I'm V P MIS AB!
+# 👋 Hi, I'm V P MIS AB!
 
 🚀 **Data Scientist | Full-Stack Developer | AI & ML Enthusiast**
 
@@ -12,19 +12,19 @@ I'm a passionate Data Scientist working on cutting-edge AI and AGI solutions. Wi
 
 ## 🔥 About Me
 - 🎓 **Education:** Bachelor's in Computer Science from IIT Palakkad
-- 💼 **Current Role:** Data Scientist (AGI Services)
-- 🌍 **Aspiring Move:** Looking for opportunities in top AI companies and research-driven organizations
-- 📌 **Interests:** AI Research, Generative Models, Full-Stack Development, Data Visualization, High-Performance Computing
+- 💼 **Current Role:** Data Scientist (Working on AI & AGI Solutions)
+- 🌍 **Career Aspiration:** Exploring AI-driven research and product development opportunities
+- 📍 **Interests:** AI Research, Generative Models, Full-Stack Development, Data Visualization, High-Performance Computing
 - 🏆 **Past Roles:** Full Stack Intern, System Admin Intern (HPC), Project Manager, General Secretary (Academics) at IIT Palakkad
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/mr-mis-ab-v-p) | [GitHub](https://github.com/Mr-K-AB)
 
 ---
 
 ## 🚀 Notable Projects
-- **🎭 Text-to-Face Image Generation** (GANs & Neural Networks for generating faces from text)
+- **🎭 Text-to-Face Image Generation** (GANs & Neural Networks for generating faces from textual description)
 - **📡 MessengerApp .NET Project** (Real-time communication & collaboration platform)
 - **🛍️ Shoe Hub** (E-commerce platform for footwear industry, built with Streamlit & PostgreSQL)
-- **🔍 AI-based Search Engine Model** (Advanced information retrieval & ranking model)
+- **🔍 AI-based Search Engine Model** (Advanced information retrieval & ranking model, built with Elastic Search, Kibana and Elastic Enterprise Search)
 - **🚗 Vehicle Recognition from Sound** (Deep learning for identifying vehicles based on sound patterns)
 
 [More Projects](https://github.com/Mr-K-AB?tab=repositories)
@@ -32,9 +32,9 @@ I'm a passionate Data Scientist working on cutting-edge AI and AGI solutions. Wi
 ---
 
 ## 🎯 Currently Learning
-- Advanced LLM Fine-Tuning & Optimization
-- Reinforcement Learning & AGI Architectures
-- Multi-Agent Systems & Simulation
+- **Advanced LLM Fine-Tuning & Optimization**  
+- **Reinforcement Learning & AGI Architectures**  
+- **Multi-Agent Systems & Simulation**  
 
 ---
 
