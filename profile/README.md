@@ -83,7 +83,7 @@ I'm a passionate Data Scientist working on cutting-edge AI and AGI solutions. Wi
 ### Profile Visit Counter
 
 <div align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=Mr-K-AB&style=for-the-badge&color=brightgreen)"  />
+  ![](https://komarev.com/ghpvc/?username=Mr-K-AB&style=for-the-badge&color=brightgreen)
 </div>
 
 
