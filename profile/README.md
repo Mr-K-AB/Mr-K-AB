@@ -74,13 +74,13 @@ I'm a passionate Data Scientist working on cutting-edge AI and AGI solutions. Wi
 ---
 
 
-###
+### Contribution Graph Snake
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mr-K-AB/Mr-K-AB/output/snake.svg" alt="Snake animation" />
 
-###
+### Profile Visit Counter
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Mr-K-AB/count.svg?"  />
